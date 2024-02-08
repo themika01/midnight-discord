@@ -38,12 +38,12 @@
 	--text-1: hsl(24, 31%, 80%); /* other normally white text */
 	--text-2: hsl(30, 100%, 89%); /* headings and important text */
 	--text-3: hsl(24, 31%, 80%); /* normal text */
-	--text-4: hsl(0, 12%, 66%); /* icon buttons and channels */
+	--text-4: hsl(335, 40%, 60%); /* icon buttons and channels */
 	--text-5: hsl(0, 12%, 56%); /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
-	--bg-1: hsl(0, 12%, 40%); /* dark buttons when clicked */
-	--bg-2: hsl(0, 12%, 24%); /* dark buttons */
+	--bg-1: hsl(335, 40%, 60%); /* dark buttons when clicked */
+	--bg-2: hsl(335, 40%, 60%); /* dark buttons */
 	--bg-3: hsl(291, 21%, 37%); /* spacing, secondary elements */
 	--bg-4:  hsl(245, 34%, 28%); /* main background color */
 	--hover: hsla(324, 24%, 50%, 0.1); /* channels and buttons when hovered */
