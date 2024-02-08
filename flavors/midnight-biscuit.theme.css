@@ -22,12 +22,12 @@
 	--streaming-indicator: #614f76; /* change to #593695 for default purple */
 
 	/* top left corner text */
-	--corner-text: 'Biscuit';
+	--corner-text: 'Mika Time (* ^ w ^)';
 
 	/* accent colors */
 	--accent-1: hsl(268, 20%, 65%); /* links */
 	--accent-2: hsl(268, 20%, 60%); /* general unread/mention elements */
-	--accent-3: hsl(268, 20%, 50%); /* accent buttons */
+	--accent-3: hsl(335, 40%, 60%); /* accent buttons */
 	--accent-4: hsl(268, 20%, 39%); /* accent buttons when hovered */
 	--accent-5: hsl(268, 20%, 34%); /* accent buttons when clicked */
 	--mention: hsla(268, 20%, 39%, 0.1); /* mentions & mention messages */
@@ -61,9 +61,9 @@
 	--icon-spin-transition: 1s ease; /* round icon button spin (settings, emoji, etc.) */
 
 	/* corner roundness (border-radius) */
-	--roundness-xl: 22px; /* roundness of big panel outer corners */
-	--roundness-l: 20px; /* popout panels */
-	--roundness-m: 16px; /* smaller panels, images, embeds */
+	--roundness-xl: 11px; /* roundness of big panel outer corners */
+	--roundness-l: 10px; /* popout panels */
+	--roundness-m: 8px; /* smaller panels, images, embeds */
 	--roundness-s: 12px; /* members, settings inputs */
 	--roundness-xs: 10px; /* channels, buttons */
 	--roundness-xxs: 8px; /* searchbar, small elements */
